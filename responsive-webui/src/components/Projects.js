@@ -11,22 +11,26 @@ export const Projects = () => {
         {
             title: "Flaner",
             description: "Social Network on mobile design",
-            imgUrl: projImg1
+            imgUrl: projImg1,
+            url: "https://github.com/pvdthien310/Flanner.git"
         },
         {
             title: "ComeBuy",
             description: "A buying laptop website",
-            imgUrl: projImg2
+            imgUrl: projImg2,
+            url: "https://github.com/pvdthien310/ComeBuyClient.git"
         },
         {
             title: "Coolzy",
             description: "A clothes shop online",
-            imgUrl: projImg3
+            imgUrl: projImg3,
+            url: "https://github.com/pvdthien310/CoolzyClient.git"
         },
         {
             title: "GoTour",
             description: "A travel application on mobile",
-            imgUrl: projImg2
+            imgUrl: projImg2,
+            url: "https://github.com/TriThuc2321/GoTour.git"
         },
     ];
 
